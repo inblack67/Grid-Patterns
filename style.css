@@ -43,6 +43,7 @@ span{
 
 .bg2{
     background: url('./img/rain2.jpg') center center/cover no-repeat;
+    color: black;
 }
 
 .container div:nth-child(1){
